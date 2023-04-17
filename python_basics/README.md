@@ -9,5 +9,6 @@ Welcome to Python Basics, taught by  Paul Resnick, Steve Oney, and Jaclyn Cohen!
 Oh, they have a cool textbook - login only through the coursea. 
 I love more and more the University of Michigan.
 
-https://www.coursera.org/learn/python-basics/lecture/Gtrf7/function-calls
+Move to the turtle game.
+https://www.coursera.org/learn/python-basics/supplement/d5N7g/instances-a-herd-of-turtles
 
