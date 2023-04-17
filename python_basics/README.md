@@ -18,4 +18,6 @@ https://www.coursera.org/learn/python-basics/lecture/pWPKq/repetition-with-a-for
 Some more turtle methods.
 https://www.coursera.org/learn/python-basics/supplement/eZ57X/a-few-more-turtle-methods-and-observations
 
+Turtle summary.
+https://www.coursera.org/learn/python-basics/supplement/6d11Y/summary-of-turtle-methods
 
