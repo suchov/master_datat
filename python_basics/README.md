@@ -12,3 +12,10 @@ I love more and more the University of Michigan.
 Move to the turtle game.
 https://www.coursera.org/learn/python-basics/supplement/d5N7g/instances-a-herd-of-turtles
 
+For loop.
+https://www.coursera.org/learn/python-basics/lecture/pWPKq/repetition-with-a-for-loop
+
+Some more turtle methods.
+https://www.coursera.org/learn/python-basics/supplement/eZ57X/a-few-more-turtle-methods-and-observations
+
+
