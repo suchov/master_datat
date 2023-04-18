@@ -21,3 +21,6 @@ https://www.coursera.org/learn/python-basics/supplement/eZ57X/a-few-more-turtle-
 Turtle summary.
 https://www.coursera.org/learn/python-basics/supplement/6d11Y/summary-of-turtle-methods
 
+Conclusions
+https://www.coursera.org/learn/python-basics/lecture/xp5lS/conclusion-turtle-graphics
+https://fopp.umsi.education/books/published/fopp/PythonModules/intro-ModulesandGettingHelp.html
