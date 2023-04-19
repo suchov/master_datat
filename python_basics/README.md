@@ -9,6 +9,8 @@ Welcome to Python Basics, taught by  Paul Resnick, Steve Oney, and Jaclyn Cohen!
 Oh, they have a cool textbook - login only through the coursea. 
 I love more and more the University of Michigan.
 
+Practice https://fopp.umsi.education/assignments/practice
+
 Move to the turtle game.
 https://www.coursera.org/learn/python-basics/supplement/d5N7g/instances-a-herd-of-turtles
 
@@ -33,3 +35,7 @@ https://www.coursera.org/learn/python-basics/supplement/h6JpB/syntax-errors
 
 Introduction to the week 2:
 https://www.coursera.org/learn/python-basics/supplement/4Ciu4/introduction-sequences
+
+Strings and lists:
+https://www.coursera.org/learn/python-basics/supplement/LpS8g/lists
+
