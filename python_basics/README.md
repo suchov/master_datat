@@ -23,4 +23,13 @@ https://www.coursera.org/learn/python-basics/supplement/6d11Y/summary-of-turtle-
 
 Conclusions
 https://www.coursera.org/learn/python-basics/lecture/xp5lS/conclusion-turtle-graphics
+
+Do the assignment:
 https://fopp.umsi.education/books/published/fopp/PythonModules/intro-ModulesandGettingHelp.html
+https://www.coursera.org/learn/python-basics/gradedLti/wOxdP/assessment-turtle-graphics
+
+Errors:
+https://www.coursera.org/learn/python-basics/supplement/h6JpB/syntax-errors
+
+Introduction to the week 2:
+https://www.coursera.org/learn/python-basics/supplement/4Ciu4/introduction-sequences

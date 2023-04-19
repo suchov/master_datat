@@ -9,3 +9,6 @@ again:
 
 https://www.coursera.org/learn/python/lecture/GoNcs/video-welcome-to-class-dr-chuck
 
+Why to program:
+https://www.coursera.org/learn/python/lecture/hpowG/1-1-why-program
+https://www.py4e.com/badges
