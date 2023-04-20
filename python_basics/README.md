@@ -39,3 +39,18 @@ https://www.coursera.org/learn/python-basics/supplement/4Ciu4/introduction-seque
 Strings and lists:
 https://www.coursera.org/learn/python-basics/supplement/LpS8g/lists
 
+In two words workin with some operators for arrays and tuples.
+
+Slice operators:
+https://www.coursera.org/learn/python-basics/lecture/wSIfX/the-slice-operator
+
+Count and index:
+https://www.coursera.org/learn/python-basics/lecture/adUHy/count-and-index
+
+Splits and joins:
+Split create an array out of string.
+https://www.coursera.org/learn/python-basics/lecture/ZcJDM/split-and-join
+
+Loops:
+https://www.coursera.org/learn/python-basics/lecture/HvdvE/naming-your-variables-in-for-loops
+
