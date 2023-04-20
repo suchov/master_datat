@@ -54,3 +54,10 @@ https://www.coursera.org/learn/python-basics/lecture/ZcJDM/split-and-join
 Loops:
 https://www.coursera.org/learn/python-basics/lecture/HvdvE/naming-your-variables-in-for-loops
 
+After the optional reading what I'll do today start the week 3:
+https://www.coursera.org/learn/python-basics/ungradedLti/bHcnM/single-sign-on-interactive-textbook-and-practice-opportunities
+You know - I should keep on practice with it, I'll be great there are no doubghts about
+that - I can be great in learning python, data science ... And it could bring the company
+a lot of value, simple steps but I should move forward one by one - it's really interesting.
+
+
