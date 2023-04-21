@@ -60,4 +60,5 @@ You know - I should keep on practice with it, I'll be great there are no doubght
 that - I can be great in learning python, data science ... And it could bring the company
 a lot of value, simple steps but I should move forward one by one - it's really interesting.
 
-
+Nested conditionals:
+https://www.coursera.org/learn/python-basics/supplement/JeZHs/nested-conditionals
