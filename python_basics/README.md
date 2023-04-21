@@ -62,3 +62,7 @@ a lot of value, simple steps but I should move forward one by one - it's really 
 
 Nested conditionals:
 https://www.coursera.org/learn/python-basics/supplement/JeZHs/nested-conditionals
+
+The Accumulator Pattern with Conditionals and Accumulating a Maximum Value:
+https://www.coursera.org/learn/python-basics/lecture/hIqEh/the-accumulator-pattern-with-conditionals-and-accumulating-a-maximum-value
+
