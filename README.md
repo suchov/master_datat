@@ -15,5 +15,6 @@ The statistics specialization - https://www.coursera.org/specializations/statist
 
 Applied DS https://www.coursera.org/specializations/data-science-python
 
+Will require time and dedication - what do I want to do with it - the main probably - knowledge...
 
 

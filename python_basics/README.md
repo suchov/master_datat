@@ -68,3 +68,6 @@ https://www.coursera.org/learn/python-basics/lecture/hIqEh/the-accumulator-patte
 
 Mutability:
 https://www.coursera.org/learn/python-basics/supplement/b713E/mutability
+
+Deleting:
+https://www.coursera.org/learn/python-basics/supplement/900RL/list-element-deletion
