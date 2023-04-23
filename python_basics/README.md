@@ -71,3 +71,13 @@ https://www.coursera.org/learn/python-basics/supplement/b713E/mutability
 
 Deleting:
 https://www.coursera.org/learn/python-basics/supplement/900RL/list-element-deletion
+
+Cloning lists:
+https://www.coursera.org/learn/python-basics/lecture/o7jDA/cloning-lists
+we can clone the list using slice x = a[:] - just wow also avaliable with copy() and others
+
+Mutating lists:
+On https://www.coursera.org/learn/python-basics/lecture/5b4Ep/append-vs-concatenate
+
+
+
