@@ -79,5 +79,9 @@ we can clone the list using slice x = a[:] - just wow also avaliable with copy()
 Mutating lists:
 On https://www.coursera.org/learn/python-basics/lecture/5b4Ep/append-vs-concatenate
 
+Methods of Strings and lists:
+https://www.coursera.org/learn/python-basics/lecture/Ytgx3/non-mutating-methods-on-strings
 
+Accumulating Lists and Strings:
+https://www.coursera.org/learn/python-basics/lecture/YlEag/the-accumulator-pattern-with-lists
 
