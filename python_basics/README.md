@@ -90,3 +90,4 @@ https://fopp.umsi.education/books/published/fopp/TransformingSequences/WPAccumul
 Don't mutate the list you are iterating through:
 https://www.coursera.org/learn/python-basics/supplement/7zUKZ/don-t-mutate-a-list-that-you-are-iterating-through
 
+The las task
