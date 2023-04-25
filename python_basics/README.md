@@ -85,3 +85,8 @@ https://www.coursera.org/learn/python-basics/lecture/Ytgx3/non-mutating-methods-
 Accumulating Lists and Strings:
 https://www.coursera.org/learn/python-basics/lecture/YlEag/the-accumulator-pattern-with-lists
 
+Accumulator Pattern strategies - kind of cool thing to figure out pattern based on words in task:
+https://fopp.umsi.education/books/published/fopp/TransformingSequences/WPAccumulatorPatternStrategies.html
+Don't mutate the list you are iterating through:
+https://www.coursera.org/learn/python-basics/supplement/7zUKZ/don-t-mutate-a-list-that-you-are-iterating-through
+
