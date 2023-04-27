@@ -7,9 +7,22 @@ https://www.coursera.org/degrees/master-of-applied-data-science-umich/admissions
 
 $35-46k 
 
-The python for everybody specialization https://www.coursera.org/specializations/python 
+Coursehttps://www.si.umich.edu/programs/master-applied-data-science/curriculum/mads-courses
+How to apply - https://www.si.umich.edu/programs/master-applied-data-science/how-do-i-apply
+
+Requirements:
+- transcripts
+- resume
+- essays
+- python 3 programming specialization
+- TOEFL IBT / special home edition is accepted too
+- letters of reccomendation
+- application fees
 
 The Python 3 Ptogramming specialization https://www.coursera.org/specializations/python-3-programming
+- going through the second course now
+
+The python for everybody specialization https://www.coursera.org/specializations/python 
 
 The statistics specialization - https://www.coursera.org/specializations/statistics-with-python
 

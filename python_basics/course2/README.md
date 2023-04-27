@@ -6,4 +6,7 @@ https://www.coursera.org/learn/python-functions-files-dictionaries/lecture/zXDg6
 The number of characters in a file count: 
 https://fopp.umsi.education/books/published/fopp/Files/Iteratingoverlinesinafile.html
 
+Writing to a file:
+https://www.coursera.org/learn/python-functions-files-dictionaries/supplement/QWGVJ/writing-to-a-file
+
 
