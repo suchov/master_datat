@@ -9,4 +9,7 @@ https://fopp.umsi.education/books/published/fopp/Files/Iteratingoverlinesinafile
 Writing to a file:
 https://www.coursera.org/learn/python-functions-files-dictionaries/supplement/QWGVJ/writing-to-a-file
 
+Properly opening file and manipulate with it with with with:
+https://fopp.umsi.education/books/published/fopp/Files/With.html
+
 
