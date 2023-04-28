@@ -15,3 +15,6 @@ https://fopp.umsi.education/books/published/fopp/Files/With.html
 Dictionaries:
 https://www.coursera.org/learn/python-functions-files-dictionaries/lecture/o2RrL/dictionaries
 
+Dictionary methods:
+https://www.coursera.org/learn/python-functions-files-dictionaries/lecture/kqkSl/dictionary-methods
+
