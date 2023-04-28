@@ -12,4 +12,6 @@ https://www.coursera.org/learn/python-functions-files-dictionaries/supplement/QW
 Properly opening file and manipulate with it with with with:
 https://fopp.umsi.education/books/published/fopp/Files/With.html
 
+Dictionaries:
+https://www.coursera.org/learn/python-functions-files-dictionaries/lecture/o2RrL/dictionaries
 
