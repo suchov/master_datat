@@ -3,6 +3,8 @@ of Mishigan.
 
 I love the University of Michigan
 
+But Austin - https://ms-datascience.utexas.edu/admissions - $10 000 and 10 courses 
+
 https://www.coursera.org/degrees/master-of-applied-data-science-umich/admissions
 
 $35-46k 
