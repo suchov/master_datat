@@ -38,3 +38,32 @@ for c in stri:
     if c is not in char_d:
         char_d[c] = 0
     char_d[c] = char_d[c] + 1
+
+# exercise - accumulating accurances in dictionary with the number of accurances
+f = open('scarlet.txt', 'r')
+txt = f.read()
+letter_counts = {}
+for c in txt:
+    if c not in letter_counts:
+        letter_counts[c] = 0
+
+    letter_counts[c] = letter_counts[c] + 1
+
+# Write a loop that prints the letters and their counts
+for key in letter_counts:
+    print(key + ": " + str(letter_counts[key]) + " occurrences")
+
+
+
+# or the number of words in dictionary that appeard in sentance 
+sentence = "The dog chased the rabbit into the forest but the rabbit was too quick."
+
+sentence_list = sentence.split()
+
+word_counts = {}
+
+for word in sentence_list:
+    if word not in word_counts:
+        word_counts[word] = 0
+
+    word_counts[word] = word_counts[word] + 1
