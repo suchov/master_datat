@@ -18,3 +18,14 @@ https://www.coursera.org/learn/python-functions-files-dictionaries/lecture/o2RrL
 Dictionary methods:
 https://www.coursera.org/learn/python-functions-files-dictionaries/lecture/kqkSl/dictionary-methods
 
+Function and return from a function:
+https://www.coursera.org/learn/python-functions-files-dictionaries/supplement/hrrE6/returning-a-value-from-a-function
+
+Local and Global variables and side effects
+Funtions that call other functions 
+Packint and unpacking tuples:
+https://www.coursera.org/learn/python-functions-files-dictionaries/lecture/75OhG/introduction-tuple-packing-and-unpacking
+
+It will probably be the end of the week, cool week tho!
+
+
