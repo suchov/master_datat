@@ -17,3 +17,8 @@ https://www.coursera.org/learn/python-functions-files-dictionaries/gradedLti/nnN
 Optional params in functions:
 https://www.coursera.org/learn/python-functions-files-dictionaries/lecture/Kyvww/optional-parameters
 
+Cool datat visualizing and play with data stuff:
+https://flowingdata.com/2015/11/30/most-common-use-of-time-by-age-and-sex/
+https://flowingdata.com/2017/05/17/american-workday/
+https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/
+
