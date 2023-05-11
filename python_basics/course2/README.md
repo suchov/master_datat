@@ -31,3 +31,9 @@ It will probably be the end of the week, cool week tho!
 While loops for inputs - quite interesting way to get the input and finish it.
 https://www.coursera.org/learn/python-functions-files-dictionaries/supplement/vcxVV/randomly-walking-turtles
 
+Anonimous unctions and lambdas
+https://www.coursera.org/learn/python-functions-files-dictionaries/lecture/zKtQo/anonymous-functions-with-lambda-expressions
+
+Last assignment https://www.coursera.org/learn/python-functions-files-dictionaries/gradedLti/DVoiE/assessment-advanced-functions
+
+

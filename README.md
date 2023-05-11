@@ -32,4 +32,6 @@ Applied DS https://www.coursera.org/specializations/data-science-python
 
 Will require time and dedication - what do I want to do with it - the main probably - knowledge...
 
+I need to start using ChatGPT, create my schedule and be the best in it...
+My learning instrument!!! 
 
