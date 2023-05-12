@@ -36,4 +36,6 @@ https://www.coursera.org/learn/python-functions-files-dictionaries/lecture/zKtQo
 
 Last assignment https://www.coursera.org/learn/python-functions-files-dictionaries/gradedLti/DVoiE/assessment-advanced-functions
 
+Intro to sorting:
+https://www.coursera.org/learn/python-functions-files-dictionaries/lecture/9VWfX/introduction-sorting-basics
 
