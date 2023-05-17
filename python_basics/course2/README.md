@@ -39,3 +39,7 @@ Last assignment https://www.coursera.org/learn/python-functions-files-dictionari
 Intro to sorting:
 https://www.coursera.org/learn/python-functions-files-dictionaries/lecture/9VWfX/introduction-sorting-basics
 
+https://www.coursera.org/learn/python-functions-files-dictionaries/lecture/9H9XO/optional-reverse-parameter
+
+Finish with sorting it was kind of cool, the cool one wilth lambdas, probably need to write it down.
+
