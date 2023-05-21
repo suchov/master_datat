@@ -35,6 +35,8 @@ https://www.datacamp.com/cheat-sheet/matplotlib-cheat-sheet-plotting-in-python#g
 The Python courses on Coursera:
 https://www.coursera.org/courses?query=python
 
+Important python libs:
+https://www.coursera.org/learn/understanding-visualization-data/ungradedLab/Mc7Ve/important-python-libraries
 
 
 

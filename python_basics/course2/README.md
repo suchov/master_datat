@@ -43,3 +43,15 @@ https://www.coursera.org/learn/python-functions-files-dictionaries/lecture/9H9XO
 
 Finish with sorting it was kind of cool, the cool one wilth lambdas, probably need to write it down.
 
+Sorting dictionaries:
+https://www.coursera.org/learn/python-functions-files-dictionaries/lecture/RO1vq/sorting-a-dictionarys-keys
+
+Sorting tuples:
+https://www.coursera.org/learn/python-functions-files-dictionaries/lecture/kHMob/breaking-ties
+It is great that when I'm sorting tuples it is actually sorting them by 1 element if they are similar
+by the second one and so on.
+I would even name it as using tuples for better sorting - negative lanth and so on - but kin of tricky
+one I must say.
+
+
+
