@@ -38,6 +38,14 @@ https://www.coursera.org/courses?query=python
 Important python libs:
 https://www.coursera.org/learn/understanding-visualization-data/ungradedLab/Mc7Ve/important-python-libraries
 
+Numpy - is a library for working with arrays of data.
+Scipy - is a library of techniques for numerical and scientific computing.
+Matpotlib - is a lib for makig vizualization.
+Seaborn - is a higher-level interface to Matplotlib that can be used to simplify many visualization tasks.
+
+visualizing with the help of python libs Tables Historgams Boxplots 
+https://www.coursera.org/learn/understanding-visualization-data/lecture/AtjFd/tables-histograms-boxplots-in-python
+Seaborn and Matplotlib
 
 
 

@@ -53,5 +53,11 @@ by the second one and so on.
 I would even name it as using tuples for better sorting - negative lanth and so on - but kin of tricky
 one I must say.
 
+Whant to finish the second course today to enjoy a victory a bit, will probably need to review this 
+stuff.
+
+Lambda vs Function now - when to use what, and it's kind of tricky topic:
+https://www.coursera.org/learn/python-functions-files-dictionaries/supplement/NbJ11/when-to-use-lambda-vs-function
+
 
 
