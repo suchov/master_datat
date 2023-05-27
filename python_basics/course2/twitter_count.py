@@ -55,7 +55,7 @@ def writeInDataFile(resultingDataFile):
     linesPTDF =  projectTwitterDataFile.readlines()
     # remove header
     headerDontUsed= linesPTDF.pop(0)
-    # for each line it the file write it down in the right format  
+    # for each line it the file write it down in the file with the help of function .format()  
     for linesTD in linesPTDF:
         listTD = linesTD.strip().split(',')
         resultingDataFile.write("{}, {}, {}, {}, {}".format(listTD[1], listTD[2], get_pos(listTD[0]), get_neg(listTD[0]), (get_pos(listTD[0])-get_neg(listTD[0]))))    
